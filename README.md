@@ -1,3 +1,4 @@
+
 [readme.md](https://github.com/user-attachments/files/34581353/readme.md)
 # Aplikasi Daftar Produk Toko (JavaFX Maven)
 
@@ -24,7 +25,7 @@ Aplikasi desktop berbasis JavaFX dan Maven yang dikembangkan untuk memodifikasi 
 
 | Halaman Detail Produk | Validasi Input Produk |
 | :---: | :---: |
-| ![Detail Produk](screenshots/detail-produk.png) | ![Validasi Input](screenshots/validasi-error.png) |
+| ![Detail Produk]<img width="638" height="547" alt="Screenshot 2026-11-09 204258" src="https://github.com/user-attachments/assets/d814df4f-6f4e-4a77-bc2b-38eb532dff87" /> | ![Validasi Input](screenshots/validasi-error.png) |
 | *Menampilkan informasi lengkap dari produk yang dipilih* | *Peringatan saat nama kosong atau harga tidak valid* |
 
 > **Catatan:** Simpan gambar hasil tangkapan layar aplikasi Anda di dalam folder `screenshots/` pada direktori utama proyek dengan nama file yang sesuai (`daftar-produk.png`, `form-tambah.png`, `detail-produk.png`, dan `validasi-error.png`).
