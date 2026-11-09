@@ -17,8 +17,7 @@ Aplikasi desktop berbasis JavaFX dan Maven yang dikembangkan untuk memodifikasi 
 5. **Halaman Detail Produk:** Meninjau rincian lengkap dari produk yang dipilih melalui tabel.
 
 ## Tangkapan Layar Aplikasi (Screenshots)
-<img width="460" height="530" alt="Screenshot 2026-11-09 204231" src="https://github.com/user-attachments/assets/26e81178-a6c7-4019-a8c7-607cb4cadfbc" />
-<img width="638" height="547" alt="Screenshot 2026-11-09 204258" src="https://github.com/user-attachments/assets/65fe5a3a-1766-4c9d-b5f7-1054576a961e" />
+<img width="460" height="530" alt="Screenshot 2026-11-09 204231" src="https://github.com/user-attachments/assets/26e81178-a6c7-4019-a8c7-607cb4cadfbc" /><img width="638" height="547" alt="Screenshot 2026-11-09 204258" src="https://github.com/user-attachments/assets/65fe5a3a-1766-4c9d-b5f7-1054576a961e" />
 <img width="460" height="530" alt="Screenshot 2026-11-09 204231" src="https://github.com/user-attachments/assets/8cccc1c9-6475-47bb-b06e-e2e537df055c" />
 
 ## Struktur Proyek
