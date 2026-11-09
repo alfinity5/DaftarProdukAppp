@@ -20,12 +20,14 @@ Aplikasi desktop berbasis JavaFX dan Maven yang dikembangkan untuk memodifikasi 
 
 | Halaman Daftar Produk | Halaman Form Tambah Produk |
 | :---: | :---: |
-| ![Daftar Produk](screenshots/daftar-produk.png) | ![Form Tambah Produk](screenshots/form-tambah.png) |
+| ![Daftar Produk]<img width="638" height="547" alt="Screenshot 2026-11-09 204258" src="https://github.com/user-attachments/assets/d814df4f-6f4e-4a77-bc2b-38eb532dff87" /> | ![Validasi Input](screenshots/validasi-error.png)
+ | ![Form Tambah Produk]<img width="460" height="530" alt="Screenshot 2026-11-09 204231" src="https://github.com/user-attachments/assets/3fb84095-1ebb-4f2e-b484-15442a8f6006" />
+ |
 | *Tampilan utama tabel daftar produk dan fitur pencarian* | *Form input produk baru dengan pilihan kategori* |
 
 | Halaman Detail Produk | Validasi Input Produk |
 | :---: | :---: |
-| ![Detail Produk]<img width="638" height="547" alt="Screenshot 2026-11-09 204258" src="https://github.com/user-attachments/assets/d814df4f-6f4e-4a77-bc2b-38eb532dff87" /> | ![Validasi Input](screenshots/validasi-error.png) |
+| ![Detail Produk] <img width="425" height="448" alt="Screenshot 2026-11-09 204311" src="https://github.com/user-attachments/assets/2ce06e4e-9a22-4966-883f-916485970562" />|
 | *Menampilkan informasi lengkap dari produk yang dipilih* | *Peringatan saat nama kosong atau harga tidak valid* |
 
 > **Catatan:** Simpan gambar hasil tangkapan layar aplikasi Anda di dalam folder `screenshots/` pada direktori utama proyek dengan nama file yang sesuai (`daftar-produk.png`, `form-tambah.png`, `detail-produk.png`, dan `validasi-error.png`).
